@@ -9,6 +9,7 @@ Install
 
 ::
 
+    pip install https://github.com/Incubaid/arakoon/archive/1.6.0.tar.gz
     pip install django-arakoon-cache
 
 

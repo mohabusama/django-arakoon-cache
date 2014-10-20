@@ -10,11 +10,9 @@ setup(
     long_description=open('README.rst').read(),
     author='Mohab Usama',
     author_email='mohab.usama@gmail.com',
+    url='https://github.com/mohabusama/django-arakoon-cache',
     packages=['django_arakoon_cache'],
     install_requires=['arakoon'],
-    dependency_links=[
-        'https://github.com/Incubaid/arakoon/archive/1.6.0.tar.gz#egg=arakoon'
-    ],
     license=open('LICENSE').read(),
     classifiers=[
         'Development Status :: 3 - Alpha',
