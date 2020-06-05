@@ -1,2 +1,2 @@
-Django==1.4
+Django==1.11.29
 https://github.com/Incubaid/arakoon/archive/1.6.0.tar.gz
